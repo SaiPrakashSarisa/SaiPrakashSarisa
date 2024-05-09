@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=000000&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey+There....;++;Full-Stack+Developer,;Active+Researcher,;Love+to+learn+new+stuffs.."></a>
 </p>
+<img src="https://giphy.com/gifs/code-software-programming-DLz5I4BGyRSOlbSC3o" />
 <!--
 **SaiPrakashSarisa/SaiPrakashSarisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
