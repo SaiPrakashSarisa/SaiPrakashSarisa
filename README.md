@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Jyothi Sai Prakash Sairsa 😎 </h1>
+<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Jyothi Sai Prakash Sairsa 😎 </h1>
 <!--
 **SaiPrakashSarisa/SaiPrakashSarisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
