@@ -3,8 +3,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=indigo&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey+There....;++;Full-Stack+Developer,;Active+Researcher,;Love+to+learn+new+stuffs.."></a>
 </p>
-<img src="https://giphy.com/gifs/code-software-programming-DLz5I4BGyRSOlbSC3o" />
-
+<!-- <img src="https://giphy.com/gifs/code-software-programming-DLz5I4BGyRSOlbSC3o" /> -->
+<img src="https://giphy.com/embed/DLz5I4BGyRSOlbSC3o" width="398" height="400" />
 <iframe src="https://giphy.com/embed/DLz5I4BGyRSOlbSC3o" width="398" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-software-programming-DLz5I4BGyRSOlbSC3o">via GIPHY</a></p>
 
 ### Languages and Tools:
