@@ -4,6 +4,21 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=indigo&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey+There....;++;Full-Stack+Developer,;Active+Researcher,;Love+to+learn+new+stuffs.."></a>
 </p>
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```ruby
+CONST Sai_Prakash_Sarisa = {
+  pronouns: "He" | "him",
+  backend: ["Nodejs", "Java"],
+  frontend: ["HTML", "CSS", "Javascript", "Angular", "ReactJs"],
+  database: ["MongoDB", "mySQL"],
+  "cloud-server": ["AWS"],
+  architecture: ["microservices", "event-driven"],
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 ### Languages and Tools:
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
