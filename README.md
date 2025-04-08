@@ -31,5 +31,4 @@ CONST Sai_Prakash_Sarisa = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> and <b> I love to do open source contributions</b> :)</em>
 
-checkout my website <code><a src="https://myportfolio-git-main-saiprakashsarisas-projects.vercel.app/">CLICK HERE</a>
-
+checkout my website [Click Here](https://myportfolio-git-main-saiprakashsarisas-projects.vercel.app/)
