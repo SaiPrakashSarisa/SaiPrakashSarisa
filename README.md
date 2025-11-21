@@ -10,9 +10,9 @@
 CONST Sai_Prakash_Sarisa = {
   pronouns: "He" | "him",
   backend: ["Nodejs", "Java"],
-  frontend: ["HTML", "CSS", "Javascript", "Angular", "ReactJs"],
-  database: ["MongoDB", "mySQL"],
-  cloud-server: ["AWS"],
+  frontend: ["HTML5", "CSS3", "JavaScript", "TypeScript", "Angular", "Ionic", "ReactJs", "React Native" ],
+  database: ["MongoDB", "MySQL"],
+  cloud-server: ["AWS", "GCP", "Teraform", "Jenkins", "kubernetes"],
   architecture: ["microservices", "event-driven"],
 }
 ```
